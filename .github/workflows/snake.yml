@@ -1,0 +1,20 @@
+# Rao Abdullah — GitHub Profile README
+
+This package contains the profile `README.md` and the workflow that generates the animated green contribution snake.
+
+Repository: https://github.com/rao-aq-1080/rao-aq-1080
+
+## Install
+
+1. Replace the repository's root `README.md` with the included `README.md`.
+2. Add `.github/workflows/snake.yml` at the exact path shown.
+3. Open **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**.
+4. Commit the workflow to the default branch. If the default branch is `master`, change `main` in `snake.yml` to `master`.
+5. Open **Actions → Generate Contribution Snake → Run workflow**.
+6. After a successful run, the `output` branch should contain `github-snake.svg` and `github-snake-dark.svg`.
+
+The snake appears after the workflow runs successfully at least once.
+
+## Important
+
+GitHub profile READMEs do not support arbitrary CSS hover effects or JavaScript interactions. They do support clickable links, collapsible `<details>` sections, animated SVGs, and linked cards/badges. Review project URLs, role titles, and credential titles before publishing.
