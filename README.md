@@ -6,7 +6,7 @@
 
 <br/>
 
-**Building intelligent AI that transforms data into impact and makes technology accessible across languages and borders.**
+*The Architect of my Own Greatness**
 
 <br/>
 
