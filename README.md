@@ -1,103 +1,176 @@
-<div align="center">
+ <div align="center">
 
-<!-- Dynamic header: rendered by an external SVG service. -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=35D0BA&center=true&vCenter=true&width=760&lines=Muhammad+Abdullah;Founder+%C2%B7+AI+Engineer+%C2%B7+Data+Scientist;Building+useful+systems+with+AI+%2B+data" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=35D0BA&center=true&vCenter=true&width=850&lines=Muhammad+Abdullah;Founder+%C2%B7+AI+Engineer+%C2%B7+Data+Scientist;Building+AI+that+works+beyond+the+demo;From+data+to+useful+systems" alt="Animated introduction" />
 
-Muhammad Abdullah
-Founder · AI Engineer · Data Scientist
-I build at the intersection of artificial intelligence, data, and software engineering.
+# Muhammad Abdullah
 
-Exploring practical AI, machine learning, NLP, and data-driven products—with a particular interest in language technology for low-resource contexts such as Urdu.
-<p>
-  <a href="https://raoabdullahportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-080B12?style=for-the-badge&logo=vercel&logoColor=35D0BA" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/raoabdullah1080/"><img src="https://img.shields.io/badge/LinkedIn-Connect-080B12?style=for-the-badge&logo=linkedin&logoColor=35D0BA" alt="LinkedIn" /></a>
-  <a href="https://github.com/rao-aq-1080?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-080B12?style=for-the-badge&logo=github&logoColor=35D0BA" alt="GitHub repositories" /></a>
-</p>
+### Founder · AI Engineer · Data Scientist
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=35D0BA" alt="Decorative divider" width="100%" />
+**I turn data, models, and software into practical AI products.**
+
+Applied AI · Machine Learning · NLP · Generative AI · Data Science · Automation
+
+<a href="https://raoabdullahportfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-080B12?style=for-the-badge&logo=vercel&logoColor=35D0BA" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/raoabdullah1080/"><img src="https://img.shields.io/badge/LINKEDIN-080B12?style=for-the-badge&logo=linkedin&logoColor=35D0BA" alt="LinkedIn" /></a>
+<a href="https://github.com/rao-aq-1080?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-080B12?style=for-the-badge&logo=github&logoColor=35D0BA" alt="GitHub repositories" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=35D0BA" width="100%" alt="Divider" />
 
 </div>
 
-About me
-- Focus: Applied AI, machine learning, NLP, data science, and AI-enabled software.
-- Problem space: Useful, understandable systems—especially where data or language resources are limited.
-- Building mindset: Start with the real problem, test assumptions, evaluate results, and document limitations.
-- Learning in public: Sharing practical experiments and lessons through DataWithRao.
-My goal is not to add AI everywhere. It is to build systems where intelligence creates real, measurable value.
+## The work I want to put into the world
 
-Technical focus
-<p>
-  <img src="https://img.shields.io/badge/Python-Exploring%20%26%20Building-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Technical%20Focus-7C5CFF?style=flat-square" alt="Machine learning" />
-  <img src="https://img.shields.io/badge/NLP-Technical%20Focus-35D0BA?style=flat-square&logoColor=080B12" alt="Natural language processing" />
-  <img src="https://img.shields.io/badge/Data%20Science-Technical%20Focus-F5F7FA?style=flat-square&logoColor=080B12" alt="Data science" />
-  <img src="https://img.shields.io/badge/APIs%20%26%20Automation-Product%20Engineering-080B12?style=flat-square" alt="APIs and automation" />
-</p>
+I’m a computer science student at the **University of Sahiwal** and a builder focused on AI-enabled products, machine learning, language technology, and software that solves real problems. I’m especially interested in useful AI for resource-constrained settings and language contexts such as Urdu.
 
-These are areas I work and learn in—not a claim of equal expertise in every tool or framework. Repository documentation should specify the actual stack used in each project.
-Explore my work
+I share experiments and lessons through **DataWithRao**. My working principle is simple: **build honestly, evaluate carefully, and make the result useful.**
+
+## Featured builds
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>QuranAltas</h3>
-      <p>Explore the source code and project structure in the repository.</p>
-      <a href="https://github.com/rao-aq-1080/QuranAltas">Open repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>n8n-learning</h3>
-      <p>Browse my repository for learning and experimenting with workflow automation.</p>
-      <a href="https://github.com/rao-aq-1080/n8n-learning">Open repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>n8n-mastery</h3>
-      <p>Explore another repository in my workflow-automation learning track.</p>
-      <a href="https://github.com/rao-aq-1080/n8n-mastery">Open repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>More repositories</h3>
-      <p>See the latest public code, experiments, and work in progress.</p>
-      <a href="https://github.com/rao-aq-1080?tab=repositories">Browse all repositories →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ RaoForge — Forge Intelligent Data
+
+**Synthetic data for computer vision and machine learning**
+
+RaoForge is my AI product concept focused on generating synthetic image data to help ML and computer-vision workflows address data scarcity, privacy constraints, and dataset preparation needs.
+
+**Exploring:** synthetic image generation · computer vision workflows · dataset creation
+
+[Explore RaoForge](https://raoforge.lovable.app)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ RaoScan
+
+**A security-minded layer for AI-agent inputs**
+
+A project direction focused on scanning content before an AI agent consumes it, with attention to prompt injection, hidden instructions, and suspicious attempts to influence agent behavior.
+
+**Focus:** AI security · prompt injection awareness · safer agent workflows
+
+[View my GitHub](https://github.com/rao-aq-1080)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Tahqiq AI
+
+**Generative AI for research assistance**
+
+A team project presented as an AI-powered research assistant. My LinkedIn describes my role as core developer / data scientist and the work as part of the HEC GenAI Hackathon 2026.
+
+**Focus:** generative AI · research workflows · knowledge access
+
+[Explore repository](https://github.com/rao-aq-1080/Tahqiq.ai)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Quran Atlas
+
+**AI-assisted exploration for Quranic study**
+
+A product in development exploring ways to make Quranic study more accessible through semantic search, topic exploration, verse comparison, and guided discovery.
+
+**Focus:** NLP · semantic search · information retrieval
+
+[Explore repository](https://github.com/rao-aq-1080/QuranAltas)
+
+</td>
+</tr>
 </table>
 
-<sub>Repository descriptions and project claims are intentionally kept conservative. Check each repository for its current implementation, setup instructions, and status.</sub>
-GitHub at a glance
+<sub>Some descriptions represent project goals or work in progress, not independently verified production features. Check each repository for its current implementation.</sub>
+
+## Experience & leadership
+
+- **Founder — RaoForge:** developing an AI product direction around synthetic image datasets for machine learning and computer vision.
+- **Core Developer / Data Scientist — Tahqiq AI:** team-based generative-AI research assistant project associated with the HEC GenAI Hackathon 2026.
+- **President — University Tech Society:** student technology community leadership.
+- **Secretary — University Majeed Amjad Literacy Society:** student society and literacy-related leadership.
+- **Creator — DataWithRao:** sharing practical AI, machine learning, data science, and software engineering knowledge.
+
+## Technical interests
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Machine%20Learning-7C5CFF?style=flat-square" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Generative%20AI-35D0BA?style=flat-square" alt="Generative AI" />
+<img src="https://img.shields.io/badge/NLP-080B12?style=flat-square" alt="NLP" />
+<img src="https://img.shields.io/badge/Computer%20Vision-080B12?style=flat-square" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/Data%20Science-080B12?style=flat-square" alt="Data Science" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Workflow%20Automation-7C5CFF?style=flat-square" alt="Workflow Automation" />
+</p>
+
+I’m interested in the full path from data preparation and model evaluation to usable interfaces, APIs, and deployment. These badges represent technical interests and working areas, not a claim of expert-level proficiency in every technology.
+
+## Selected learning & certifications
+
+My learning spans AI foundations, cloud, data science, analytics, and practical job simulations. Selected entries include:
+
+- **CS205: Building with Artificial Intelligence** — Saylor Academy.
+- **Basics of Data Science** — UniAthena.
+- **Data Science & Analytics** — HP LIFE.
+- **Introduction to Data Science** — Simplilearn.
+- **Data Analytics Job Simulation** — Deloitte / Forage.
+- **Data Science Job Simulation** — BCG X / Forage.
+- **Data Science Job Simulation** — British Airways / Forage.
+- **Quantitative Research Job Simulation** — JPMorganChase / Forage.
+- **Data Labeling Job Simulation** — Forage.
+- **AWS Training & Certification** — see LinkedIn for the exact credential title and details.
+
+Job simulations are identified as simulations, not employment. Please check my LinkedIn for current credential details and verification links.
+
+[View my LinkedIn credentials](https://www.linkedin.com/in/raoabdullah1080/)
+
+## GitHub activity
+
 <div align="center">
 
 <a href="https://github.com/rao-aq-1080">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rao-aq-1080&show_icons=true&hide_border=true&bg_color=080B12&title_color=35D0BA&text_color=F5F7FA&icon_color=7C5CFF&rank_icon=github" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/rao-aq-1080">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rao-aq-1080&layout=compact&hide_border=true&bg_color=080B12&title_color=35D0BA&text_color=F5F7FA" alt="Most-used public repository languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rao-aq-1080&show_icons=true&hide_border=true&bg_color=080B12&title_color=35D0BA&text_color=F5F7FA&icon_color=7C5CFF&rank_icon=github" alt="GitHub statistics" />
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rao-aq-1080&bg_color=080B12&color=F5F7FA&line=35D0BA&point=7C5CFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="96%" />
+<a href="https://github.com/rao-aq-1080">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rao-aq-1080&layout=compact&hide_border=true&bg_color=080B12&title_color=35D0BA&text_color=F5F7FA" alt="Public repository language distribution" />
+</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rao-aq-1080&bg_color=080B12&color=F5F7FA&line=35D0BA&point=7C5CFF&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
 
 </div>
 
-<sub>These cards are generated from public GitHub data by third-party services. They may load slowly, be temporarily unavailable, or calculate language/statistics differently from GitHub itself.</sub>
-What I value
-- Clarity over hype — explain what a system does and what it does not do.
-- Evidence over assumptions — evaluate outcomes rather than relying on impressive-sounding claims.
-- Useful documentation — make projects easier to understand, run, and improve.
-- Responsible engineering — consider reliability, accessibility, and real-world constraints.
-Let's connect
-Interested in applied AI, data science, language technology, or building practical software? Find me here:
-<p>
-  <a href="https://raoabdullahportfolio.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/raoabdullah1080/">LinkedIn</a> ·
-  <a href="https://github.com/rao-aq-1080">GitHub</a>
-</p>
+<sub>Statistics and activity graphics are generated by third-party services using public GitHub data. Availability and displayed values may change.</sub>
+
+## Principles I build by
+
+- **Problem before model.** Understand the user need before choosing a technique.
+- **Evidence before claims.** Use metrics only when supported by meaningful evaluation.
+- **Useful over flashy.** A demo should be a step toward a maintainable product.
+- **Responsible by design.** Consider privacy, reliability, accessibility, and failure modes.
+- **Document the path.** Make projects understandable and reproducible.
+
+## Connect
+
+If you’re building in applied AI, data science, NLP, or practical software—or want to exchange ideas—find me here:
+
+- **Portfolio:** [raoabdullahportfolio.vercel.app](https://raoabdullahportfolio.vercel.app)
+- **LinkedIn:** [linkedin.com/in/raoabdullah1080](https://www.linkedin.com/in/raoabdullah1080/)
+- **GitHub:** [github.com/rao-aq-1080](https://github.com/rao-aq-1080)
+- **RaoForge:** [raoforge.lovable.app](https://raoforge.lovable.app)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C5CFF" alt="Decorative divider" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C5CFF" width="100%" alt="Divider" />
 
+### The Architect of My Own Greatness.
 
-Build with evidence. Document the work. Make the useful thing real.
+*Decoding the Future through Data · DataWithRao*
 
-<sub>Decoding the Future through Data · DataWithRao</sub>
 </div>
