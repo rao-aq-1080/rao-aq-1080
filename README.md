@@ -159,12 +159,6 @@ Machine learning workflows and applied model development.
 
 AI engineering and prototype development.
 
-### Leadership
-
-- President — University Tech Society.
-- Secretary — University Majeed Amjad Literacy Society.
-- Academic project leadership and collaboration.
-
 *Use the role titles above only where they match your actual experience. Add dates and measurable outcomes when you can substantiate them.*
 
 ## `04` / TECHNOLOGY STACK
